@@ -18,6 +18,12 @@ Loot is a map based social media app that allows users to Drop any picture at th
 ### Check It Out
 <img src="https://cloud.githubusercontent.com/assets/27897899/25360359/bf9021b6-2916-11e7-9321-e95f82e0829a.PNG" alt="FunFactsScreenShot" width="200" height="370">
 
+### View it in the My Drops Tab
+<img src="https://cloud.githubusercontent.com/assets/27897899/25408343/a681c150-29db-11e7-8491-84d2e915ec16.PNG" alt="FunFactsScreenShot" width="200" height="370">
+
+### Take a closer look
+<img src="https://cloud.githubusercontent.com/assets/27897899/25408342/a672ca42-29db-11e7-9f7d-14c2ab1a5035.PNG" alt="FunFactsScreenShot" width="200" height="370">
+
 
 &copy; It's Happen Inc. 2017
 
