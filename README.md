@@ -1,6 +1,6 @@
 # Loot
 
-Loot is a map based social media app that allows users to Drop any picture at their current location. Other users of Loot can immediately see this Drop on the map and choose to save it to their phone before it disappears off the map. Loot uses RealmDB to store metadata locally and Google's Firebase for cloud storage as well as storing the metadata tables. 
+Loot is a map based social media app that allows users to Drop any picture at their current location. Other users of Loot can immediately see this Drop on the map and choose to save it to their phone before it disappears off the map. All design assets were custom made using Sketch3. Loot uses RealmDB to store metadata locally and Google's Firebase for cloud storage as well as storing the metadata tables. 
 
 ## Screenshots
 
